@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-restapi",
+  "version": "1.0.0",
+  "description": "NodeJs-RestApis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-RestAPIs"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongo": "^0.1.0",
+    "path": "^0.12.7"
+  }
+}
